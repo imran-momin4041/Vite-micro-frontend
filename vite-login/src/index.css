@@ -1,0 +1,62 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+body {
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+button {
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button {
+  border-radius: 5px;
+  font-weight: 500;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: unset;
+  color: #fff;
+  padding: 0 10px;
+  border: none;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+button.primary {
+  background-color: rgb(68, 77, 211);
+  color: #fff;
+  border: unset;
+}
+
+button.size-xxl {
+  height: 50px;
+}
+
+button.size-xl {
+  height: 40px;
+}
+
+button.text-xl {
+  font-size: 16px;
+}

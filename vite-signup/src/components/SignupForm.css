@@ -1,0 +1,28 @@
+.signup-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  width: 100%;
+  max-width: 500px;
+  margin: auto;
+}
+
+.signup-content * {
+  width: 100%;
+}
+
+.signup-title {
+  text-align: center;
+}
+
+input.size-xxl {
+  height: 50px;
+}
+
+input {
+  border-radius: 5px;
+  padding: 5px 10px;
+  box-sizing: border-box;
+  border: 2px solid #d1d1d1;
+}
