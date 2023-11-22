@@ -46,5 +46,6 @@ Now you need configure in your host/container project.
 
 Now How to use remote component in container project. ?
 const LoginForm = import("loginApp/LoginForm");
+
 ![image](https://github.com/imran-momin4041/Vite-micro-frontend/assets/39003300/59477f6f-21f5-4ef9-a37a-75d2ea7db363)
 
