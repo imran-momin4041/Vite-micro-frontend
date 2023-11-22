@@ -41,8 +41,10 @@ Now you need configure in your host/container project.
 
 1) Install vite-plugin-federation
 2) Modify the vite.config.ts file as below image.
-![image](https://github.com/imran-momin4041/Vite-micro-frontend/assets/39003300/9341fe65-bb4f-4641-8ff2-2c7bd23cbf7d)
+   
+![image](https://github.com/imran-momin4041/Vite-micro-frontend/assets/39003300/b31d91ef-5dbe-4887-9a92-20c3da6bc3a3)
 
-
-
+Now How to use remote component in container project. ?
+const LoginForm = import("loginApp/LoginForm");
+![image](https://github.com/imran-momin4041/Vite-micro-frontend/assets/39003300/59477f6f-21f5-4ef9-a37a-75d2ea7db363)
 
